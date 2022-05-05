@@ -1,6 +1,6 @@
-const name = 'Your Name'
-const title = 'Your Title'
-const mail = 'Your Email'
+const name = 'Priyanshu Jaiswar'
+const title = 'Learner'
+const mail = 'priyanshujaiswar9@gmail.com'
 
 document.getElementById('title').innerText = name
 document.getElementById('name').innerText = name
